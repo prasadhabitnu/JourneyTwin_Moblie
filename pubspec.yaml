@@ -1,0 +1,47 @@
+name: habitnu_nu
+description: >-
+  Habitnu × Lilly — Nu mobile app POC (Android).
+  Voice-first GLP-1 companion built on the Nu Digital Twin platform.
+publish_to: none
+version: 1.2.0+9
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI / rendering
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  fl_chart: ^0.68.0
+
+  # Voice
+  speech_to_text: ^7.0.0
+  flutter_tts: ^4.0.2
+  permission_handler: ^11.3.1
+
+  # State + data
+  provider: ^6.1.2
+  equatable: ^2.0.5
+  intl: ^0.19.0
+
+  # HTTP (for later platform-api wiring; unused in mock mode)
+  http: ^1.2.2
+
+  # Persistent UI-mode toggle
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/nu.svg

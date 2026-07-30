@@ -1,0 +1,20 @@
+{
+  "P100967": {
+    "cohortLabel": "Started at 152 lbs with similar goals and evening glucose spikes.",
+    "ageRange": "50-55",
+    "similarity": [
+      "Similar habits",
+      "Similar goals"
+    ],
+    "whatWorked": [
+      "Walked 20 min after dinner",
+      "Protein-first breakfast",
+      "Slept 7+ hours"
+    ],
+    "results30d": {
+      "spikeReduction": -28,
+      "weightLoss": -8,
+      "tirImprovement": 11
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "P100967": {
+    "glucose": {
+      "noticed": [
+        "You had 2 spikes today.",
+        "Breakfast caused your highest spike (174 mg/dL).",
+        "Your walk after dinner helped you recover faster."
+      ],
+      "recommends": [
+        "Add protein to breakfast.",
+        "Walk 15-20 min after meals.",
+        "Keep rice, pasta, bread moderate."
+      ],
+      "actions": [
+        "snap-meal",
+        "log-meal",
+        "ask-nu",
+        "why-this-helps"
+      ]
+    },
+    "movement": {
+      "noticed": [
+        "You walked 3 of your last 5 evenings.",
+        "Longest walk this week: 32 min on Tuesday.",
+        "Post-walk glucose stayed under 140 mg/dL on 4 of 4 evenings."
+      ],
+      "recommends": [
+        "Aim for a 20-min walk after dinner tonight.",
+        "Add a short mid-day walk when time permits.",
+        "Track your route - familiar loops help build the habit."
+      ],
+      "actions": [
+        "log-activity",
+        "ask-nu",
+        "why-this-helps",
+        "set-reminder"
+      ]
+    },
+    "nutrition": {
+      "noticed": [
+        "You had 2 higher-carb meals this week.",
+        "Protein at breakfast helps your glucose stay steadier.",
+        "You do best when dinner is balanced with protein and veggies."
+      ],
+      "recommends": [
+        "Add protein to breakfast tomorrow.",
+        "Aim for 25-30g protein per meal.",
+        "Fill half your plate with veggies."
+      ],
+      "actions": [
+        "snap-meal",
+        "log-meal",
+        "ask-nu",
+        "why-this-helps"
+      ]
+    },
+    "sleep": {
+      "noticed": [
+        "Averaging 7.3 hours the last 7 nights.",
+        "Fasting glucose 12% lower on nights >= 7.5 hours.",
+        "Wednesday's 6.5-hour night preceded your Thursday morning spike."
+      ],
+      "recommends": [
+        "Aim for 7-8 hours tonight.",
+        "Wind-down 30 min before bed.",
+        "Keep screens dim after 10 PM."
+      ],
+      "actions": [
+        "log-sleep",
+        "ask-nu",
+        "why-this-helps",
+        "set-reminder"
+      ]
+    },
+    "stress": {
+      "noticed": [
+        "Stress level rose to 5/5 on Wednesday.",
+        "Cortisol spikes correlate with your afternoon glucose bumps.",
+        "You had 2 calming days in a row - your rings look flatter."
+      ],
+      "recommends": [
+        "Try a 4-minute breathing exercise this afternoon.",
+        "Block one no-meeting hour tomorrow.",
+        "Text a friend - social contact predicts your calmest days."
+      ],
+      "actions": [
+        "log-stress",
+        "start-breath",
+        "ask-nu",
+        "why-this-helps"
+      ]
+    },
+    "hydration": {
+      "noticed": [
+        "8 glasses on your best days.",
+        "You drink less on high-stress mornings.",
+        "Hydrated days show 15% lower glucose variability."
+      ],
+      "recommends": [
+        "Keep a water bottle within arm's reach.",
+        "Aim for 2 glasses before lunch.",
+        "Herbal tea counts."
+      ],
+      "actions": [
+        "log-water",
+        "ask-nu",
+        "why-this-helps",
+        "set-reminder"
+      ]
+    },
+    "mindset": {
+      "noticed": [
+        "Journaling 3 days this week.",
+        "Positive-mood mornings correlate with better food choices.",
+        "You reported feeling 'good' 9 of the last 14 days."
+      ],
+      "recommends": [
+        "Start each morning with one thing you're grateful for.",
+        "Note wins - not just misses - in your check-in.",
+        "Talk to Nu when you need to think out loud."
+      ],
+      "actions": [
+        "ask-nu",
+        "why-this-helps",
+        "log-mood",
+        "start-journal"
+      ]
+    },
+    "weight": {
+      "noticed": [
+        "Down 7 lbs in 14 days.",
+        "Steady 0.5 lb/day trend since starting Long Walker.",
+        "8 lbs to your 170 lb goal."
+      ],
+      "recommends": [
+        "Weigh in weekly, not daily - trends matter more than spikes.",
+        "Protein + fiber keep you fuller between meals.",
+        "Small changes stick - big changes rebound."
+      ],
+      "actions": [
+        "log-weight",
+        "ask-nu",
+        "why-this-helps",
+        "view-trend"
+      ]
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "P100967": [
+    {
+      "id": "long-walker",
+      "name": "The Long Walker",
+      "tagline": "One long walk (35–40 min) does most of the work",
+      "emoji": "🚶",
+      "matchStrength": 100,
+      "recipe": [
+        "35–40 min evening walk",
+        "Balanced dinner",
+        "6+ glasses water"
+      ],
+      "matchingDays": [
+        "Wed, Jun 24",
+        "Sat, Jun 27",
+        "Wed, Jul 1"
+      ],
+      "nuEnhancements": [
+        "Add 5 more minutes to hit the 40-min sweet spot - Your Day 10 (40-min walk) had a flatter evening curve than Day 7 (35-min). The last 5 minutes buys measurable AGP smoothing — you're already close.",
+        "Estimated lift: +2–3 TIR points"
+      ]
+    },
+    {
+      "id": "splitter",
+      "name": "The Splitter",
+      "tagline": "Two shorter walks spread through the day",
+      "emoji": "⏱️",
+      "matchStrength": 100,
+      "recipe": [
+        "Post-lunch stroll (10–20 min)",
+        "Evening walk (25–30 min)",
+        "Portion-controlled carbs"
+      ],
+      "matchingDays": [
+        "Sun, Jun 21",
+        "Mon, Jun 22",
+        "Sat, Jun 27"
+      ],
+      "nuEnhancements": [
+        "Never skip the post-lunch stroll — it's 40% of the effect - Your Day 5 data: the 10-min post-lunch walk cut the lunch spike from +52 → +30 mg/dL. That short walk is doing outsized work. Protect it on your calendar.",
+        "Estimated lift: +3–5 TIR points on high-carb-lunch days"
+      ]
+    },
+    {
+      "id": "fiber-forward",
+      "name": "The Fiber-Forward",
+      "tagline": "Complex carbs + fiber-forward meals; less activity needed",
+      "emoji": "🌱",
+      "matchStrength": 100,
+      "recipe": [
+        "Oatmeal / quinoa / lentil-based meals",
+        "Berries, greens, complex carbs only",
+        "Any 20–30 min walk"
+      ],
+      "matchingDays": [
+        "Sat, Jun 20",
+        "Mon, Jun 22",
+        "Tue, Jun 23",
+        "Fri, Jun 26"
+      ],
+      "nuEnhancements": [
+        "Layer in a 15-min post-lunch walk to hit the ceiling - Fiber-forward days already sit at avg 95% TIR without much walking. Adding just 15 min after lunch pushes you into 100% TIR territory, at very low effort cost.",
+        "Estimated lift: TIR ceiling: 95% → 100%"
+      ]
+    },
+    {
+      "id": "protein-anchored",
+      "name": "The Protein-Anchored",
+      "tagline": "High-protein breakfast + lunch keeps CV low",
+      "emoji": "🥩",
+      "matchStrength": 100,
+      "recipe": [
+        "Egg-white omelette / Greek yogurt breakfast",
+        "Chicken / salmon-forward lunch",
+        "30-min walk (any time)"
+      ],
+      "matchingDays": [
+        "Thu, Jun 25",
+        "Fri, Jun 26",
+        "Wed, Jul 1"
+      ],
+      "nuEnhancements": [
+        "Swap oats + walnuts in on days you don't want eggs - Your Day 7 (Greek yogurt + walnuts) matched the CV of your egg days. Rotate to keep the protein anchor without eating the same breakfast every day.",
+        "Estimated lift: Same CV benefit, higher adherence"
+      ]
+    },
+    {
+      "id": "hydration-champion",
+      "name": "The Hydration Champion",
+      "tagline": "Hitting the water goal + any 30-min walk",
+      "emoji": "💧",
+      "matchStrength": 100,
+      "recipe": [
+        "8+ glasses water logged",
+        "30-min walk (any time)",
+        "Balanced meals — no restriction needed"
+      ],
+      "matchingDays": [
+        "Mon, Jun 22",
+        "Sat, Jun 27",
+        "Wed, Jul 1"
+      ],
+      "nuEnhancements": [
+        "Front-load 4 glasses before noon — shrinks the dawn phenomenon further - Your morning glucose rise correlates with overnight hydration. Getting 4 glasses in by lunch (vs. spread through the day) trimmed your dawn rise on Day 10.",
+        "Estimated lift: Fasting glucose: –4–6 mg/dL further"
+      ]
+    }
+  ],
+  "P100150": [],
+  "P100210": [],
+  "P100384": [],
+  "P100736": [],
+  "P100003": []
+}

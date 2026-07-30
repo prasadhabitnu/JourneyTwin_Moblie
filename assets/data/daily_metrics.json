@@ -1,0 +1,130 @@
+{
+  "P100967": [
+    {
+      "date": "2026-06-18T00:00:00.000Z",
+      "label": "Jun 18",
+      "weight": 185.2,
+      "sleepHours": 6,
+      "stress": 4,
+      "mood": "okay",
+      "momentum": 62
+    },
+    {
+      "date": "2026-06-19T00:00:00.000Z",
+      "label": "Jun 19",
+      "weight": 184.8,
+      "sleepHours": 6.5,
+      "stress": 3,
+      "mood": "good",
+      "momentum": 64
+    },
+    {
+      "date": "2026-06-20T00:00:00.000Z",
+      "label": "Jun 20",
+      "weight": 184.3,
+      "sleepHours": 7.2,
+      "stress": 3,
+      "mood": "good",
+      "momentum": 66
+    },
+    {
+      "date": "2026-06-21T00:00:00.000Z",
+      "label": "Jun 21",
+      "weight": 183.9,
+      "sleepHours": 7,
+      "stress": 3,
+      "mood": "good",
+      "momentum": 67
+    },
+    {
+      "date": "2026-06-22T00:00:00.000Z",
+      "label": "Jun 22",
+      "weight": 183.4,
+      "sleepHours": 6.8,
+      "stress": 4,
+      "mood": "okay",
+      "momentum": 66
+    },
+    {
+      "date": "2026-06-23T00:00:00.000Z",
+      "label": "Jun 23",
+      "weight": 182.8,
+      "sleepHours": 7.5,
+      "stress": 2,
+      "mood": "good",
+      "momentum": 70
+    },
+    {
+      "date": "2026-06-24T00:00:00.000Z",
+      "label": "Jun 24",
+      "weight": 182.2,
+      "sleepHours": 7.8,
+      "stress": 2,
+      "mood": "good",
+      "momentum": 72
+    },
+    {
+      "date": "2026-06-25T00:00:00.000Z",
+      "label": "Jun 25",
+      "weight": 181.7,
+      "sleepHours": 6.5,
+      "stress": 5,
+      "mood": "struggling",
+      "momentum": 68
+    },
+    {
+      "date": "2026-06-26T00:00:00.000Z",
+      "label": "Jun 26",
+      "weight": 181.2,
+      "sleepHours": 7,
+      "stress": 3,
+      "mood": "okay",
+      "momentum": 70
+    },
+    {
+      "date": "2026-06-27T00:00:00.000Z",
+      "label": "Jun 27",
+      "weight": 180.5,
+      "sleepHours": 7.4,
+      "stress": 2,
+      "mood": "good",
+      "momentum": 74
+    },
+    {
+      "date": "2026-06-28T00:00:00.000Z",
+      "label": "Jun 28",
+      "weight": 179.9,
+      "sleepHours": 7.6,
+      "stress": 2,
+      "mood": "good",
+      "momentum": 75
+    },
+    {
+      "date": "2026-06-29T00:00:00.000Z",
+      "label": "Jun 29",
+      "weight": 179.4,
+      "sleepHours": 7.2,
+      "stress": 3,
+      "mood": "good",
+      "momentum": 76
+    },
+    {
+      "date": "2026-06-30T00:00:00.000Z",
+      "label": "Jun 30",
+      "weight": 178.8,
+      "sleepHours": 7.5,
+      "stress": 2,
+      "mood": "good",
+      "momentum": 77
+    },
+    {
+      "date": "2026-07-01T00:00:00.000Z",
+      "label": "Jul 1",
+      "weight": 178,
+      "sleepHours": 7.4,
+      "stress": 2,
+      "mood": "good",
+      "momentum": 78
+    }
+  ]
+}

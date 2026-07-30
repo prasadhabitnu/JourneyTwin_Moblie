@@ -1,0 +1,282 @@
+{
+  "P100967": {
+    "default": {
+      "lens": "default",
+      "headline": "Your day at a glance — Wed, Jul 1",
+      "bullets": [
+        "Time in range: 99% · average glucose 92 mg/dL",
+        "Range today: 69–104 mg/dL · variability (CV) 7.7%",
+        "4 logged events attributed to today's curve"
+      ]
+    },
+    "notices": {
+      "lens": "notices",
+      "headline": "What changed this week",
+      "bullets": [
+        "TIR climbed from 96% → 99% across the two weeks",
+        "Average glucose dropped from 121 → 96 mg/dL",
+        "Post-lunch spikes shrunk from ~85 mg/dL rise to ~30 mg/dL after Day 4 walking habit landed",
+        "Fasting glucose settled from 118 → 94 mg/dL over 14 days"
+      ]
+    },
+    "remembers": {
+      "lens": "remembers",
+      "headline": "What worked before — pattern lock-in",
+      "bullets": [
+        "Days with a post-dinner walk (Day 4, 5, 6, 7, 10, 13, 14) sat at TIR ≥ 80%",
+        "Days with hydration goal met + walk → the flattest curves of the period",
+        "Half-portion of refined carbs (Day 4 chicken tikka + ½ naan) had 40% smaller spike than full portion (Day 1 rice + curry)",
+        "Injection days (Days 1, 6, 13) show no glucose disruption — dose is stable"
+      ]
+    },
+    "predicts": {
+      "lens": "predicts",
+      "headline": "If current patterns hold — next 24h forecast",
+      "bullets": [
+        "Fasting glucose expected 92–100 mg/dL tomorrow morning",
+        "Lunch curve stays in-range if portion size + a 15-min walk are maintained",
+        "TIR next week forecast: 82–88% (95% CI) at current trajectory",
+        "GMI (estimated HbA1c) trending toward 6.2% by end of month if pattern holds"
+      ]
+    },
+    "recommends": {
+      "lens": "recommends",
+      "headline": "3 small things to lock in the pattern",
+      "bullets": [
+        "Keep the 30-min evening walk — biggest single lever on your TIR",
+        "Stay at 8+ glasses of water — hydration is inversely correlated with your CV",
+        "When rice is on the menu, do the ½-portion play from Day 4 + walk after"
+      ]
+    },
+    "recovery": {
+      "lens": "recovery",
+      "headline": "If you slip — the path back",
+      "bullets": [
+        "First 24h after a slip: prioritize the post-dinner walk (biggest lift)",
+        "Skip the refined-carb combo (rice + naan / pasta + bread) for the next 3 days",
+        "Log water: hitting the 8-glass target for 3 days in a row correlates with your best recovery weeks",
+        "Coach outreach available — Nu can schedule a check-in if the slip lasts > 3 days"
+      ]
+    }
+  },
+  "P100150": {
+    "default": {
+      "lens": "default",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 100 mg/dL."
+      ]
+    },
+    "notices": {
+      "lens": "notices",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 100 mg/dL."
+      ]
+    },
+    "remembers": {
+      "lens": "remembers",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 100 mg/dL."
+      ]
+    },
+    "predicts": {
+      "lens": "predicts",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 100 mg/dL."
+      ]
+    },
+    "recommends": {
+      "lens": "recommends",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 100 mg/dL."
+      ]
+    },
+    "recovery": {
+      "lens": "recovery",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 100 mg/dL."
+      ]
+    }
+  },
+  "P100210": {
+    "default": {
+      "lens": "default",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "notices": {
+      "lens": "notices",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "remembers": {
+      "lens": "remembers",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "predicts": {
+      "lens": "predicts",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "recommends": {
+      "lens": "recommends",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "recovery": {
+      "lens": "recovery",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    }
+  },
+  "P100384": {
+    "default": {
+      "lens": "default",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "notices": {
+      "lens": "notices",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "remembers": {
+      "lens": "remembers",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "predicts": {
+      "lens": "predicts",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "recommends": {
+      "lens": "recommends",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    },
+    "recovery": {
+      "lens": "recovery",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 124 mg/dL."
+      ]
+    }
+  },
+  "P100736": {
+    "default": {
+      "lens": "default",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "notices": {
+      "lens": "notices",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "remembers": {
+      "lens": "remembers",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "predicts": {
+      "lens": "predicts",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "recommends": {
+      "lens": "recommends",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "recovery": {
+      "lens": "recovery",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    }
+  },
+  "P100003": {
+    "default": {
+      "lens": "default",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "notices": {
+      "lens": "notices",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "remembers": {
+      "lens": "remembers",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "predicts": {
+      "lens": "predicts",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "recommends": {
+      "lens": "recommends",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    },
+    "recovery": {
+      "lens": "recovery",
+      "headline": "Lens narratives require the demo hero (Sandy R.).",
+      "bullets": [
+        "Selected day: Wed, Jul 1 — TIR 100%, avg 119 mg/dL."
+      ]
+    }
+  }
+}

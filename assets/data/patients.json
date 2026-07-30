@@ -1,0 +1,68 @@
+[
+  {
+    "id": "P100967",
+    "name": "Sandy R.",
+    "age": 47,
+    "sex": "F",
+    "bmi": 34.3,
+    "hba1c": 7.2,
+    "weeksOnProgram": 13,
+    "rss": "Low",
+    "tier": "GLP-1 Direct"
+  },
+  {
+    "id": "P100150",
+    "name": "Noah P.",
+    "age": 68,
+    "sex": "M",
+    "bmi": 29.5,
+    "hba1c": 5.9,
+    "weeksOnProgram": 20,
+    "rss": "Medium",
+    "tier": "GLP-1 Direct"
+  },
+  {
+    "id": "P100210",
+    "name": "Robert P.",
+    "age": 35,
+    "sex": "M",
+    "bmi": 26.3,
+    "hba1c": 5.2,
+    "weeksOnProgram": 4,
+    "rss": "High",
+    "tier": "GLP-1 Direct"
+  },
+  {
+    "id": "P100384",
+    "name": "David A.",
+    "age": 20,
+    "sex": "M",
+    "bmi": 31.7,
+    "hba1c": 8.3,
+    "weeksOnProgram": 6,
+    "rss": "Low",
+    "tier": "GLP-1 Direct"
+  },
+  {
+    "id": "P100736",
+    "name": "Joy S.",
+    "age": 46,
+    "sex": "F",
+    "bmi": 36.6,
+    "hba1c": 6,
+    "weeksOnProgram": 10,
+    "rss": "Medium",
+    "tier": "GLP-1 Direct"
+  },
+  {
+    "id": "P100003",
+    "name": "Andre B.",
+    "age": 41,
+    "sex": "M",
+    "bmi": 27.1,
+    "hba1c": 6.4,
+    "weeksOnProgram": 1,
+    "rss": "Low",
+    "tier": "GLP-1 Direct"
+  }
+]
