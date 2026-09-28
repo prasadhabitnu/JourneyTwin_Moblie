@@ -1,0 +1,10 @@
+import { PATIENTS } from "./lib/patientData";
+const sandys = PATIENTS.filter(p => p.name.startsWith("Sandy"));
+console.log("Sandys in dataset:", sandys.length);
+sandys.forEach(p => console.log(" ", p.id, "->", p.name, "(", p.age, p.sex, "BMI", p.bmi, ")"));
+const p150 = PATIENTS.find(p => p.id === "P100150");
+const p384 = PATIENTS.find(p => p.id === "P100384");
+const p736 = PATIENTS.find(p => p.id === "P100736");
+console.log("P100150:", p150?.name);
+console.log("P100384:", p384?.name);
+console.log("P100736:", p736?.name);

@@ -1,0 +1,18 @@
+HOW TO INSTALL THE HABITNU DEMO ON YOUR IPHONE
+================================================
+
+1. Open Safari on your iPhone.
+2. Go to: <deployed URL>/journey
+3. Tap the Share button (square with an up-arrow) at the bottom of Safari.
+4. Scroll down and tap "Add to Home Screen".
+5. Confirm the name ("Habitnu") and tap "Add" in the top-right.
+6. Close Safari.
+7. On your home screen, tap the new Habitnu icon.
+8. The app launches full-screen with no browser bars.
+
+NOTES:
+- Voice narration requires you to tap "Start Sally's day" once so
+  iOS Safari knows to permit the speech synthesis (iOS gestural gate).
+- If Nu's voice doesn't play, tap the "Unmute Nu" badge in the
+  bottom-right corner once.
+- Rotate to portrait for the intended layout.
